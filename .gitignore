@@ -31,3 +31,7 @@ docs/Founding ML Engineer Assignment.docx
 docs/asr_failure_analysis_implementation_plan.md
 docs/implementation_status.md
 docs/learning.txt
+
+# Kept locally only, not pushed to the remote (removed on request).
+docs/challenges_and_decisions.md
+docs/reports_data_dictionary.md
