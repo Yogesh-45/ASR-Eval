@@ -1,0 +1,3 @@
+failure_mode,affected_calls,impact_failed_calls,impact_failed_pct_of_affected
+proper_noun,11,11,100.0
+short_utterance_hallucination,9,0,0.0

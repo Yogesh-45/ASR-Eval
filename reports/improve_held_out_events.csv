@@ -1,0 +1,9 @@
+call_id,use_case,canonical_entity,before_status,before_recoverable,after_status,after_recoverable,recovered,corrupted_by_correction,fixed_to_exact_correct,num_corrections_applied_to_call
+e6a45e58-9fec-4691-8f2d-3b2ba5ad45d8,ecommerce support,Nitiya,ADDED,False,ADDED,False,False,False,False,0
+c95edcdd-5ffe-4864-9722-3a88988365fd,b2b sales outreach,Moradabad,CORRECT,True,CORRECT,True,False,False,False,0
+c95edcdd-5ffe-4864-9722-3a88988365fd,b2b sales outreach,Uttar Pradesh,ADDED,False,ADDED,False,False,False,False,0
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,2306150615,CORRECT,True,CORRECT,True,False,False,False,0
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Seven Up,CORRECT,True,CORRECT,True,False,False,False,0
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Pepsi,CORRECT,True,CORRECT,True,False,False,False,0
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Tetra Pack,CORRUPTED,False,CORRUPTED,False,False,False,False,0
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Fruitz,CORRECT,True,CORRECT,True,False,False,False,0

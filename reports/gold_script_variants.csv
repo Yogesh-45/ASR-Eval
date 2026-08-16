@@ -1,0 +1,6 @@
+call_id,canonical_entity,gold_matched_span,asr_matched_span
+2f5a58b5-3467-45cf-a57a-70c4ae0165ae,Gurgaon,gurgaon,गुड़गांव
+ebbb8d49-de7b-4d30-a845-ef68c74a980a,Delhi,delhi,दिल्ली
+f87b3e49-f5ad-4662-bfd0-16a5a833a146,Neha,neha,नेहा
+59cc61e3-478d-45e7-9c52-d8f877375c9e,Bombay,बॉम्बे,bombay
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,Fruitz Litchi,fruitz litchi,fruits लीची

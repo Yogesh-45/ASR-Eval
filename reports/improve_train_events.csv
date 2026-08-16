@@ -1,0 +1,39 @@
+call_id,use_case,canonical_entity,before_status,before_recoverable,after_status,after_recoverable,recovered,corrupted_by_correction,fixed_to_exact_correct,num_corrections_applied_to_call
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,Fabina,CORRUPTED,False,CORRUPTED,False,False,False,False,0
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,Pronto,DROPPED,False,DROPPED,False,False,False,False,0
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,Delhi,DROPPED,False,DROPPED,False,False,False,False,0
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Pepsi,CORRECT,True,CORRECT,True,False,False,False,1
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Mirinda,CORRECT,True,CORRECT,True,False,False,False,1
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Mountain Dew,CORRUPTED,False,CORRUPTED,False,False,False,False,1
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Slice,DROPPED,False,DROPPED,False,False,False,False,1
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Tetra Pack,DROPPED,False,DROPPED,False,False,False,False,1
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Aquafina,DROPPED,False,DROPPED,False,False,False,False,1
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Seven Up,CORRUPTED,False,CORRECT,True,True,False,True,1
+a64ff8a2-38a3-4532-a7d7-ea42a87e541c,b2b sales outreach,Silver Jewellery,DROPPED,False,DROPPED,False,False,False,False,0
+2f5a58b5-3467-45cf-a57a-70c4ae0165ae,admissions / lead qualification,MBA,CORRECT,True,CORRECT,True,False,False,False,0
+2f5a58b5-3467-45cf-a57a-70c4ae0165ae,admissions / lead qualification,Gurgaon,CORRECT,True,CORRECT,True,False,False,False,0
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Seven Up,CORRUPTED,False,CORRECT,True,True,False,True,1
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Pepsi,CORRECT,True,CORRECT,True,False,False,False,1
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Slice,CORRUPTED,False,CORRUPTED,False,False,False,False,1
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Fruitz,CORRECT,True,CORRECT,True,False,False,False,1
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Fruitz Apple,CORRECT,True,CORRECT,True,False,False,False,1
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Fruitz Litchi,CORRECT,True,CORRECT,True,False,False,False,1
+d8676f59-e3d8-49c6-a135-3b77eda03e02,admissions / lead qualification,B.Tech,CORRECT,True,CORRECT,True,False,False,False,0
+d8676f59-e3d8-49c6-a135-3b77eda03e02,admissions / lead qualification,Hyderabad,ADDED,False,ADDED,False,False,False,False,0
+2d9ac1d3-4e07-4de1-8815-1f0969fe4d3f,ecommerce support,Apple Watch,CORRECT,True,CORRECT,True,False,False,False,0
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,Mayura,CORRECT,True,CORRECT,True,False,False,False,0
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,Delhi,DROPPED,False,DROPPED,False,False,False,False,0
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,KC Nagar,DROPPED,False,DROPPED,False,False,False,False,0
+47629b83-b3af-4492-bc4a-5a6aa0a2aa8e,b2b sales outreach,Alibaba.com,CORRECT,True,CORRECT,True,False,False,False,0
+47629b83-b3af-4492-bc4a-5a6aa0a2aa8e,b2b sales outreach,Raval,ADDED,False,ADDED,False,False,False,False,0
+f87b3e49-f5ad-4662-bfd0-16a5a833a146,ecommerce support,Neha,CORRECT,True,CORRECT,True,False,False,False,0
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,Woxen University,DROPPED,False,DROPPED,False,False,False,False,0
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,WhatsApp,DROPPED,False,DROPPED,False,False,False,False,0
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,BBA,CORRECT,True,CORRECT,True,False,False,False,0
+3c11aa34-2123-4df6-a567-2c23e7272953,ecommerce support,Telugu,CORRECT,True,CORRECT,True,False,False,False,0
+ebbb8d49-de7b-4d30-a845-ef68c74a980a,b2b sales outreach,Delhi,CORRECT,True,CORRECT,True,False,False,False,0
+59cc61e3-478d-45e7-9c52-d8f877375c9e,ecommerce support,Bombay,CORRECT,True,CORRECT,True,False,False,False,0
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Meera,CORRECT,True,CORRECT,True,False,False,False,0
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Pepsi,CORRECT,True,CORRECT,True,False,False,False,0
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Seven Up,CORRECT,True,CORRECT,True,False,False,False,0
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Mirinda,CORRECT,True,CORRECT,True,False,False,False,0

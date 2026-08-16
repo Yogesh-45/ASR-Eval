@@ -1,0 +1,47 @@
+call_id,use_case,canonical_entity,entity_type,status,gold_score,gold_matched_span,asr_score,asr_matched_span,script_variant
+2f5a58b5-3467-45cf-a57a-70c4ae0165ae,admissions / lead qualification,MBA,other_proper_noun,CORRECT,100.0,MBA,100.0,mba,False
+2f5a58b5-3467-45cf-a57a-70c4ae0165ae,admissions / lead qualification,Gurgaon,city,CORRECT,100.0,gurgaon,100.0,गुड़गांव,True
+ebbb8d49-de7b-4d30-a845-ef68c74a980a,b2b sales outreach,Delhi,city,CORRECT,100.0,delhi,100.0,दिल्ली,True
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,Fabina,other_proper_noun,CORRUPTED,100.0,फैबिना,36.4,रवीना,False
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,Pronto,other_proper_noun,DROPPED,100.0,pronto company,0.0,,False
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,Delhi,city,DROPPED,100.0,दिल्ली,0.0,,False
+e6a45e58-9fec-4691-8f2d-3b2ba5ad45d8,ecommerce support,Nitiya,other_proper_noun,ADDED,0.0,,100.0,नीतिया,False
+3c11aa34-2123-4df6-a567-2c23e7272953,ecommerce support,Telugu,other_proper_noun,CORRECT,100.0,तेलुगु,100.0,तेलुगु,False
+47629b83-b3af-4492-bc4a-5a6aa0a2aa8e,b2b sales outreach,Alibaba.com,brand,CORRECT,100.0,alibaba dot com,84.6,alibaba dot,False
+47629b83-b3af-4492-bc4a-5a6aa0a2aa8e,b2b sales outreach,Raval,other_proper_noun,ADDED,0.0,,100.0,रावल ma'am,False
+f87b3e49-f5ad-4662-bfd0-16a5a833a146,ecommerce support,Neha,other_proper_noun,CORRECT,100.0,neha,100.0,नेहा,True
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,Woxen University,other_proper_noun,DROPPED,100.0,Woxen University,0.0,,False
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,WhatsApp,brand,DROPPED,100.0,whatsapp,0.0,,False
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,BBA,other_proper_noun,CORRECT,100.0,BBA,100.0,bba,False
+c95edcdd-5ffe-4864-9722-3a88988365fd,b2b sales outreach,Moradabad,city,CORRECT,100.0,मुरादाबाद,100.0,मुरादाबाद,False
+c95edcdd-5ffe-4864-9722-3a88988365fd,b2b sales outreach,Uttar Pradesh,place,ADDED,0.0,,100.0,उत्तर प्रदेश,False
+a64ff8a2-38a3-4532-a7d7-ea42a87e541c,b2b sales outreach,Silver Jewellery,other_proper_noun,DROPPED,100.0,silver jewellery,0.0,,False
+2d9ac1d3-4e07-4de1-8815-1f0969fe4d3f,ecommerce support,Apple Watch,product,CORRECT,100.0,apple watch,100.0,apple watch,False
+d8676f59-e3d8-49c6-a135-3b77eda03e02,admissions / lead qualification,B.Tech,other_proper_noun,CORRECT,100.0,B.Tech,90.9,btech,False
+d8676f59-e3d8-49c6-a135-3b77eda03e02,admissions / lead qualification,Hyderabad,city,ADDED,0.0,,100.0,हैदराबाद,False
+59cc61e3-478d-45e7-9c52-d8f877375c9e,ecommerce support,Bombay,city,CORRECT,100.0,बॉम्बे,100.0,bombay,True
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,Mayura,place,CORRECT,100.0,मयूरा,100.0,मयूरा,False
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,Delhi,city,DROPPED,100.0,दिल्ली,0.0,,False
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,KC Nagar,place,DROPPED,100.0,KC नगर,0.0,,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Pepsi,brand,CORRECT,100.0,pepsi,100.0,pepsi,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Mirinda,brand,CORRECT,100.0,mirinda,92.3,mirnda,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Mountain Dew,brand,CORRUPTED,100.0,dew,66.7,due,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Slice,brand,DROPPED,100.0,slice,0.0,,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Tetra Pack,product,DROPPED,100.0,tetra,0.0,,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Aquafina,brand,DROPPED,100.0,aquafina,0.0,,False
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,Seven Up,brand,CORRUPTED,100.0,seven up,75.0,seven of,False
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Meera,other_proper_noun,CORRECT,100.0,मीरा,100.0,मीरा,False
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Pepsi,brand,CORRECT,100.0,pepsi,100.0,pepsi,False
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Seven Up,brand,CORRECT,100.0,seven up,100.0,seven up,False
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,Mirinda,brand,CORRECT,100.0,mirinda orange,96.6,mirrinda orange,False
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,2306150615,id,CORRECT,100.0,two three zero six one five zero six one five,100.0,two three zero six one five zero six one five,False
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Seven Up,brand,CORRECT,100.0,seven up,100.0,seven up,False
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Pepsi,brand,CORRECT,100.0,pepsi,100.0,pepsi,False
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Tetra Pack,product,CORRUPTED,100.0,tetra pack,66.7,tetra,False
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,Fruitz,brand,CORRECT,100.0,fruitz,83.3,fruits,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Seven Up,brand,CORRUPTED,100.0,seven up,80.0,seven a,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Pepsi,brand,CORRECT,100.0,pepsi,100.0,pepsi,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Slice,brand,CORRUPTED,100.0,slice,66.7,life,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Fruitz,brand,CORRECT,100.0,fruitz,83.3,fruits,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Fruitz Apple,product,CORRECT,100.0,fruitz apple,91.7,fruits apple,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,Fruitz Litchi,product,CORRECT,100.0,fruitz litchi,91.7,fruits लीची,True

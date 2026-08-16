@@ -1,0 +1,64 @@
+# Proper-noun / product catalog for Phase 6-7 (entity canonicalization + failure detection).
+#
+# This is a small, hand-curated gazetteer, not a general NER model. That is a
+# deliberate choice for this dataset: 49 calls across 5 use_cases with a bounded,
+# recurring vocabulary (beverage SKUs, a couple of cities). A gazetteer + fuzzy/
+# transliteration matching is fast, deterministic, auditable, and needs no API
+# access -- all of which matter more here than open-domain entity coverage.
+# Extend this file (not the code) as new recurring entities are found.
+#
+# use_cases: null means the entity is checked in every call (e.g. cities).
+# A restricted use_cases list is used for short/common-word-like aliases
+# (dew, slice, due) to avoid false matches against ordinary English/Hindi words
+# outside the beverage-ordering context where they actually denote a product.
+
+entities:
+  - canonical: Mirinda
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: [mirinda, mirnda, merinda, mirrinda, morindo]
+
+  - canonical: Fruitz
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: [fruitz, fruits, fruit]
+
+  - canonical: Pepsi
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: [pepsi, peps, pepsy]
+
+  - canonical: Seven Up
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: ["seven up", 7up, sevenup, "seven-up", "seven half"]
+
+  - canonical: Mountain Dew
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: [dew, due, dwew, dube]
+
+  - canonical: Slice
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: [slice, slyce]
+
+  - canonical: Aquafina
+    type: product
+    use_cases: [beverage order-taking]
+    aliases: [aquafina, "aqua fina"]
+
+  - canonical: Tetra Pack
+    type: packaging
+    use_cases: [beverage order-taking]
+    aliases: ["tetra", "tetra pack"]
+
+  - canonical: Delhi
+    type: city
+    use_cases: null
+    aliases: [delhi, दिल्ली]
+
+  - canonical: Gurgaon
+    type: city
+    use_cases: null
+    aliases: [gurgaon, gurugram, गुड़गांव, गुरुग्राम]

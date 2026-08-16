@@ -1,0 +1,3 @@
+failure_mode,total_calls,affected_calls,frequency_pct
+proper_noun,49,11,22.4
+short_utterance_hallucination,49,9,18.4

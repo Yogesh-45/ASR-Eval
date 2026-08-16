@@ -1,0 +1,10 @@
+pandas
+openpyxl
+jiwer
+rapidfuzz
+PyYAML
+tabulate
+regex
+openai
+python-dotenv
+pytest

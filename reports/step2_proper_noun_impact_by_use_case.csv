@@ -1,0 +1,6 @@
+use_case,affected_calls,impact_failed_calls,impact_failed_pct_of_affected
+b2b sales outreach,3,3,100.0
+beverage order-taking,3,3,100.0
+admissions / lead qualification,2,2,100.0
+verification call,2,2,100.0
+ecommerce support,1,1,100.0

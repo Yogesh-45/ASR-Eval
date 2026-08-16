@@ -1,0 +1,35 @@
+canonical_entity,mentions,correct,corrupted,dropped,added,failure_rate_pct
+Fabina,1,0,1,0,0,100.0
+Aquafina,1,0,0,1,0,100.0
+WhatsApp,1,0,0,1,0,100.0
+Silver Jewellery,1,0,0,1,0,100.0
+KC Nagar,1,0,0,1,0,100.0
+Tetra Pack,2,0,1,1,0,100.0
+Woxen University,1,0,0,1,0,100.0
+Slice,2,0,1,1,0,100.0
+Pronto,1,0,0,1,0,100.0
+Mountain Dew,1,0,1,0,0,100.0
+Delhi,3,1,0,2,0,66.7
+Seven Up,4,2,2,0,0,50.0
+Alibaba.com,1,1,0,0,0,0.0
+2306150615,1,1,0,0,0,0.0
+BBA,1,1,0,0,0,0.0
+B.Tech,1,1,0,0,0,0.0
+Bombay,1,1,0,0,0,0.0
+Apple Watch,1,1,0,0,0,0.0
+Meera,1,1,0,0,0,0.0
+Mayura,1,1,0,0,0,0.0
+MBA,1,1,0,0,0,0.0
+Hyderabad,1,0,0,0,1,0.0
+Fruitz Litchi,1,1,0,0,0,0.0
+Gurgaon,1,1,0,0,0,0.0
+Fruitz Apple,1,1,0,0,0,0.0
+Fruitz,2,2,0,0,0,0.0
+Raval,1,0,0,0,1,0.0
+Pepsi,4,4,0,0,0,0.0
+Nitiya,1,0,0,0,1,0.0
+Neha,1,1,0,0,0,0.0
+Mirinda,2,2,0,0,0,0.0
+Moradabad,1,1,0,0,0,0.0
+Telugu,1,1,0,0,0,0.0
+Uttar Pradesh,1,0,0,0,1,0.0

@@ -1,0 +1,6 @@
+use_case,total_calls,affected_calls,frequency_pct
+b2b sales outreach,17,3,17.6
+beverage order-taking,4,3,75.0
+admissions / lead qualification,4,2,50.0
+verification call,3,2,66.7
+ecommerce support,21,1,4.8

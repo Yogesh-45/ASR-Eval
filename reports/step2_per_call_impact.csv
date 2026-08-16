@@ -1,0 +1,50 @@
+id,use_case,polarity_preserved,quantity_preserved,content_preserved,entity_non_recoverable,proper_noun_impact_flag,impact_score
+2f5a58b5-3467-45cf-a57a-70c4ae0165ae,admissions / lead qualification,True,True,True,0,False,0
+ebbb8d49-de7b-4d30-a845-ef68c74a980a,b2b sales outreach,True,True,True,0,False,0
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,True,False,False,3,True,6
+c5586005-1416-4104-bd79-341d76bc6e8c,b2b sales outreach,True,True,True,0,False,0
+7d743b92-bd32-4e39-afd4-a9da3b3c52bd,ecommerce support,True,True,True,0,False,1
+e6a45e58-9fec-4691-8f2d-3b2ba5ad45d8,ecommerce support,True,True,True,1,True,3
+685ebfb1-06f5-4043-8443-b3390789e333,ecommerce support,True,True,True,0,False,1
+3c11aa34-2123-4df6-a567-2c23e7272953,ecommerce support,True,True,True,0,False,1
+a2632186-df70-44d4-a573-c7fdfa9024db,b2b sales outreach,False,True,False,0,False,0
+20579a98-2cf2-4e8e-9df2-4e06b5d25d86,b2b sales outreach,True,True,True,0,False,0
+31fb72e8-80a7-47d2-a608-eadb0249953c,ecommerce support,True,True,True,0,False,1
+607cbd35-a1f3-4560-9dc7-0858e611b87f,b2b sales outreach,True,True,True,0,False,0
+88d0e749-daf7-4f1f-90b3-a83b1e40cc5e,b2b sales outreach,True,True,True,0,False,1
+130d7762-b4ee-48be-bc0f-8406a8c2ea3a,ecommerce support,True,True,True,0,False,0
+1dfaac3f-15d2-4061-867e-87a74f461b8c,b2b sales outreach,True,True,True,0,False,0
+0de04f5e-bbe8-40f8-a156-a2a8fc85ebee,ecommerce support,False,True,False,0,False,0
+47629b83-b3af-4492-bc4a-5a6aa0a2aa8e,b2b sales outreach,True,True,True,1,True,2
+6d43f318-0e7b-4421-af94-ffc769cd99c3,ecommerce support,True,True,True,0,False,0
+f87b3e49-f5ad-4662-bfd0-16a5a833a146,ecommerce support,True,True,True,0,False,0
+9485d29f-f572-4556-8cd3-c9bc0c53be91,ecommerce support,True,True,True,0,False,1
+7eb5f02c-881a-4d70-beaf-c68bcb2e8c22,b2b sales outreach,True,True,True,0,False,0
+bc750d0d-ba91-4aac-935a-0ada6447900a,ecommerce support,True,True,True,0,False,0
+1a82be4c-c36b-4f91-adac-8648f237ef43,b2b sales outreach,True,True,True,0,False,0
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,True,True,True,2,True,4
+6400c588-c623-472c-b097-4bb03d6edaf2,ecommerce support,True,True,True,0,False,0
+5d04b4b5-5615-4663-aa3a-fa231be34ccb,ecommerce support,True,True,True,0,False,0
+c95edcdd-5ffe-4864-9722-3a88988365fd,b2b sales outreach,True,True,True,1,True,2
+ca20a6fe-6036-41e1-bf47-68a8205a4239,ecommerce support,True,True,True,0,False,0
+4ca9d7c5-29d4-43b9-b834-c70399fb1332,b2b sales outreach,True,True,True,0,False,0
+a64ff8a2-38a3-4532-a7d7-ea42a87e541c,b2b sales outreach,False,True,False,1,True,2
+ae6caea0-a3b7-445d-a83e-6d02457af07b,b2b sales outreach,True,True,True,0,False,0
+7937b554-3541-461b-be76-1c7383fd267a,ecommerce support,True,True,True,0,False,0
+020e1147-dd6f-427f-9d53-5d40c658d66f,ecommerce support,True,True,True,0,False,0
+2d9ac1d3-4e07-4de1-8815-1f0969fe4d3f,ecommerce support,True,True,True,0,False,0
+8043ee36-bd6f-412e-86b4-a1b983dc458a,b2b sales outreach,True,True,True,0,False,0
+df77107b-6531-4303-85eb-e56f056cc16e,ecommerce support,True,True,True,0,False,0
+9c328701-9884-459f-ab22-0103c76d3a52,b2b sales outreach,True,True,True,0,False,0
+d8676f59-e3d8-49c6-a135-3b77eda03e02,admissions / lead qualification,True,True,True,1,True,2
+59cc61e3-478d-45e7-9c52-d8f877375c9e,ecommerce support,True,True,True,0,False,0
+43b07a68-f6fb-4c99-8065-97d07f28f182,ecommerce support,True,True,True,0,False,0
+b2a6f783-90f7-4057-9d4c-ca589bd95034,ecommerce support,False,True,False,0,False,0
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,True,False,False,2,True,4
+6c605613-efd2-48e8-b080-8a086addf2a7,b2b sales outreach,True,True,True,0,False,0
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,True,False,False,5,True,10
+dd0bb7ca-015a-4bca-ac7f-42df781d3928,beverage order-taking,True,False,False,0,False,0
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,True,False,False,1,True,2
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,True,False,False,2,True,4
+33720198-f1f7-498b-915b-e836c5d61c5c,admissions / lead qualification,True,True,True,0,False,1
+2b184bcb-9a7a-4da5-9b06-f8b5ba1711fe,verification call,True,True,True,0,False,1

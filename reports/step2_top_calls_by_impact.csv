@@ -1,0 +1,20 @@
+id,use_case,impact_score,entity_non_recoverable,polarity_preserved,quantity_preserved
+09c68660-7db4-4b5b-9a72-39a12f18c9bd,beverage order-taking,10,5,True,False
+5a7d6b58-8e53-4c52-8f96-0166236e8e0a,verification call,6,3,True,False
+963cce78-ad9a-45e5-98c3-962a24bdb7bb,admissions / lead qualification,4,2,True,True
+c1c6a53f-fd1e-428d-8198-22209c3e8082,verification call,4,2,True,False
+a8afca71-9dd8-464c-9ebf-04933f58e4a4,beverage order-taking,4,2,True,False
+e6a45e58-9fec-4691-8f2d-3b2ba5ad45d8,ecommerce support,3,1,True,True
+8661511d-f289-4919-b2da-0b4f78726e1f,beverage order-taking,2,1,True,False
+d8676f59-e3d8-49c6-a135-3b77eda03e02,admissions / lead qualification,2,1,True,True
+47629b83-b3af-4492-bc4a-5a6aa0a2aa8e,b2b sales outreach,2,1,True,True
+c95edcdd-5ffe-4864-9722-3a88988365fd,b2b sales outreach,2,1,True,True
+a64ff8a2-38a3-4532-a7d7-ea42a87e541c,b2b sales outreach,2,1,False,True
+7d743b92-bd32-4e39-afd4-a9da3b3c52bd,ecommerce support,1,0,True,True
+9485d29f-f572-4556-8cd3-c9bc0c53be91,ecommerce support,1,0,True,True
+31fb72e8-80a7-47d2-a608-eadb0249953c,ecommerce support,1,0,True,True
+88d0e749-daf7-4f1f-90b3-a83b1e40cc5e,b2b sales outreach,1,0,True,True
+685ebfb1-06f5-4043-8443-b3390789e333,ecommerce support,1,0,True,True
+3c11aa34-2123-4df6-a567-2c23e7272953,ecommerce support,1,0,True,True
+33720198-f1f7-498b-915b-e836c5d61c5c,admissions / lead qualification,1,0,True,True
+2b184bcb-9a7a-4da5-9b06-f8b5ba1711fe,verification call,1,0,True,True
