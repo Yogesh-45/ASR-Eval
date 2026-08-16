@@ -357,8 +357,7 @@ n-gram windows against that vocabulary and rewrites high-confidence garbled
 mentions, using only the ASR text — no gold access, matching a real
 production setup.
 
-**What was considered and rejected, and why** (full evidence trail in
-`docs/challenges_and_decisions.md`):
+**What was considered and rejected, and why:**
 - **Extending the vocabulary beyond the gazetteer's closed catalog** by mining
   every entity the LLM found in training gold (`Pronto`, `WhatsApp`, `Silver
   Jewellery`, ...) — corrupts an unrelated `b2b sales outreach` call's "sir
@@ -640,7 +639,7 @@ that reaches that bucket at all.
    cause). The fix for "too little data" is more data, not a cleverer rule
    on the same tiny sample — but it only works if the synthetic corruptions
    are generated *conditioned on the real confusions already found* (the
-   9-example audit trail in `docs/challenges_and_decisions.md`), not
+   9-example audit trail described under "Step 3: Improve" above), not
    invented generically, and validated against real held-out examples
    before being trusted — an LLM asked to "imagine ASR errors" with no
    grounding in this specific ASR engine's actual acoustic behavior on
@@ -658,5 +657,5 @@ that reaches that bucket at all.
 5. The single-word alias matches this layer deliberately excludes
    (`due`/`life`/`test`) would need a phonetic/acoustic similarity signal
    instead of plain text fuzzy-matching to safely re-admit — evaluated with
-   9 different metrics and ruled out (see `docs/challenges_and_decisions.md`);
-   items 3-4 above are the two remaining paths that could still work.
+   9 different metrics and ruled out (see "Step 3: Improve" above); items
+   3-4 above are the two remaining paths that could still work.
